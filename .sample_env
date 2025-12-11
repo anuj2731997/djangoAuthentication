@@ -1,4 +1,4 @@
-SECRET_KEY="sample_key"
+SECRET_KEY="secret_key"
 DEBUG='True'
 
 # database

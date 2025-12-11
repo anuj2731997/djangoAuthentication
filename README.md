@@ -42,7 +42,7 @@ pip install -r requirements.txt
 Create a `.env` file in the project root . Example:
 
 ```
-SECRET_KEY="sample_key"
+SECRET_KEY="secret_key"
 DEBUG='True'
 
 
