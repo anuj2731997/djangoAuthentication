@@ -8,7 +8,7 @@ A minimal, secure, and easy-to-run Django application that implements user authe
 Clone the repository and set up a Python virtual environment:
 
 ```bash
-git clone https://github.com/Leon-glitch-png/djangoAuthentication.git
+git clone https://github.com/anuj2731997/djangoAuthentication.git
 cd djangoAuthentication
 
 # Create virtual environment (recommended)
